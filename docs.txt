@@ -1,0 +1,5 @@
+01. Install PHP Stripe Library
+composer require stripe/stripe-php
+
+02. For Subscription Create Product in Stripe dashboard with recurring mode. Once created will find price id
+Need set price id of subscription based product
